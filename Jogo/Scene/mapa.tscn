@@ -1,0 +1,166 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Sprite/2D Pixel Dungeon Asset Pack/0x72_DungeonTilesetII_v1.1.png" type="Texture" id=1]
+
+[node name="Node" type="Node"]
+
+[node name="teste" type="Sprite" parent="." index="0"]
+
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 17, 12, 16, 16 )
+_sections_unfolded = [ "Region", "Transform" ]
+
+[node name="0x72_DungeonTilesetII_v1.2" type="Sprite" parent="." index="1"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 35, 12, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.3" type="Sprite" parent="." index="2"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 63, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.4" type="Sprite" parent="." index="3"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 32, 63, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.5" type="Sprite" parent="." index="4"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 63, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.6" type="Sprite" parent="." index="5"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 79, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.7" type="Sprite" parent="." index="6"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 64, 79, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.8" type="Sprite" parent="." index="7"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 64, 95, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.9" type="Sprite" parent="." index="8"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 95, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.10" type="Sprite" parent="." index="9"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 32, 95, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.11" type="Sprite" parent="." index="10"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 95, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.12" type="Sprite" parent="." index="11"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 66, 10, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.13" type="Sprite" parent="." index="12"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 65, 23, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.14" type="Sprite" parent="." index="13"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 15, 32, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.15" type="Sprite" parent="." index="14"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 31, 32, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.16" type="Sprite" parent="." index="15"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 32, 47, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.17" type="Sprite" parent="." index="16"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 47, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.18" type="Sprite" parent="." index="17"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 64, 47, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.19" type="Sprite" parent="." index="18"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 64, 63, 16, 16 )
+_sections_unfolded = [ "Region" ]
+
+[node name="0x72_DungeonTilesetII_v1.20" type="Sprite" parent="." index="19"]
+
+position = Vector2( 483.582, 325.111 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 80, 82, 15, 14 )
+_sections_unfolded = [ "Region" ]
+
+

@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://KinematicBody2D.gd" type="Script" id=1]
+[ext_resource path="res://Sprite/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton1/v1/skeleton_v1_1.png" type="Texture" id=2]
+
+[node name="KinematicBody2D" type="KinematicBody2D" index="0"]
+
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+collision/safe_margin = 0.08
+script = ExtResource( 1 )
+speed = 200
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." index="0"]
+
+position = Vector2( 60.3388, 35.1226 )
+build_mode = 0
+polygon = PoolVector2Array( -7.71381, -17.533, 19.1535, 25.5447, 25.4575, -16.9327, -7.71381, -19.1841 )
+
+[node name="Sprite" type="Sprite" parent="CollisionPolygon2D" index="0"]
+
+position = Vector2( 11.7075, -5.10329 )
+texture = ExtResource( 2 )
+
+
